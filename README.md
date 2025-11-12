@@ -1,12 +1,10 @@
-# Olá, Bem vindo ao projeto da landing page do Alura Plus.
+# Alura Plus.
 
-![image](https://media.licdn.com/dms/image/D4D22AQHaOtuiKePJcA/feedshare-shrink_800/0/1688655990980?e=1691625600&v=beta&t=zQuNjiEYDnhxpJZKes_jja4wCEdp3exin-0qra18WSg)
+<img width="1887" height="866" alt="image" src="https://github.com/user-attachments/assets/2831ee8b-2623-4eab-bb66-abfe589f8d27" />
 
+[Acesse a page](https://alura-plus-two-orcin.vercel.app/)
 
-## Ferramentas utilizadas:
-
-* HTML
-
-* CSS
-
-* Flex-box
+## 🧰 Tecnologias
+- HTML
+- CSS
+- GIT
